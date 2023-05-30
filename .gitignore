@@ -1,3 +1,7 @@
+# My
+*.vs
+*.git
+
 # Prerequisites
 *.d
 
